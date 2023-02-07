@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">form</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <!--text-->
+    <string name="label_form">Form</string>
+    <string name="label_data">Data</string>
+    <string name="complete">complete registration</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- actions-->
+    <string name="next">submit</string>
+    <string name="previous">save</string>
+    <!--inputs-->
+    <string name="hint_name">name</string>
+    <string name="hint_lastName">Last Name</string>
+    <string name="hint_age">Age</string>
+</resources>
